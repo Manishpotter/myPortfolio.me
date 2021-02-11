@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(7, 148, 148);
+}
+#em{
+    background: gainsboro;
+}
+#me::first-letter{
+    font-size: 80px;
+    color: honeydew;
+
+}
+h3{
+    color: yellow;
+    font-size: 30px;
+}
+ul{
+    color: whitesmoke;
+    font-size: 20px;
+}
+b{
+    color: rgb(60, 13, 230);
+}
+.col{
+    font-family: sans-serif;
+}
